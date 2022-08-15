@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @toshi-nori
-- 👀 I’m interested in Python, Bash Scripting, Web Development
+- 👋 Hi, I’m @om-anand
+- 👀 I’m interested in Python, Bash Scripting, Web Development, Web Scraping, Automation, Game Development
 - 🌱 I’m currently learning Python Web Development
 - 💞️ I’m looking to collaborate on, there's no limit to learning. So, let's collaborate and make awesome things together.
 - 📫 How to reach me? Twitter DM : @a2n0a0n2d
